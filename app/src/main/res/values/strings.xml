@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyPetBio</string>
+    <string name="pet_bio">This is my dog</string>
+    <string name="pet2_bio">This is a cat</string>
+    <string name="pet_img_">cat_values</string>
+    <string name="name_mBeaux">~mBeaux_values</string>
+    <string name="mia_name">mia_values</string>
+    <string name="pet_img_cat_2">cat_values_2</string>
+    <string name="pet_dog_2">dog_values</string>
+    <string name="cat_text_name">~mBeaux_cat</string>
+    <string name="cat_bio_text">cat_bio</string>
+    <string name="pet_dog_img">mia_dog</string>
+    <string name="dog_text_name">Mia_dog</string>
+    <string name="dog_bio_text">dog_bio</string>
+</resources>
